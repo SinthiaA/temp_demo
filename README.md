@@ -78,10 +78,10 @@ Keep in mind the Chromedriver version must be same as Chrome browser version tha
       Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
   Once download is completed
-    Go to the downloads folder > unzip the file > drag the chromedriver to the current project > go to pom.xml file > reload the project one more time.
+    Go to the downloads folder > Unzip the file > Open Intellij IDEA > Go to project > Drag the chromedriver to the current project > Go to pom.xml file > Reload the project one more time.
     
       Do the same steps for other browsers if user would like to run tests on different browsers
 
 **Setting up the first Test**:
 
-Go to project > Expand the current project > Expand the src folder > Expand test folder > Expand java folder (This should be empty unless there has been other test added in the past) > Right click on the java folder > Click on New > Click on Java Class > Add in title of class file ex. TradesyCart > Begin Scripting
+Open Intellij IDEA (if it wasn't already opened) > Go to project > Expand the current project > Expand the src folder > Expand test folder > Expand java folder (This should be empty unless there has been other test added in the past) > Right click on the java folder > Click on New > Click on Java Class > Add in title of class file ex. TradesyCart > Begin Scripting
